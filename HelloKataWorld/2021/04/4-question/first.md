@@ -30,7 +30,7 @@ Link: [CodKata Step 1][http://codekata.com/kata/kata01-supermarket-pricing/]
 * 비용과 가격은 같은 클래스(등급) 인가 ?
 
 * 만약 100개의 캔들의 선반이 "2개를 산다면 하나를 무료로 드려요" 라는 가격을 사용하고 있다면, 당신은 어떻게 재고의 측정할 것인가?
-</pre></code>
+</code></pre>
 
 이것은 생각이 쏟아지는 카타이긴 하지만, 조심해야 합니다.
 
